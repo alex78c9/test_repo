@@ -1,2 +1,2 @@
 # test_repo
-Test reporsitory used for learning Python
+Test repository used for learning Data Science related topics
